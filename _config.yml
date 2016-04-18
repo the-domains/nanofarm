@@ -1,0 +1,28 @@
+name: nanofarm
+favicon: null
+layout_spectrum: 0.8600848678033799
+typography_spectrum: 0.4030223269946873
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5995467789471149
+  lightness: 0.6923297857865691
+  saturation: 0.7265833241399378
+  rhythmicContrast: 0.3874516342766583
+purpose: []
